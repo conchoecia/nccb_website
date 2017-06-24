@@ -40,25 +40,10 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-    - title: twitter
+    - title: facebook
       url: https://twitter.com/caseywdunn
-    - title: google
-      url: http://scholar.google.com/citations?user=k2n_5QoAAAAJ&hl=en
-    - title: bitbucket
-      url: https://bitbucket.org/caseywdunn
-    - title: github
-      url: https://github.com/caseywdunn
-    - title: vimeo-square
-      url: https://vimeo.com/user1747626
-    - title: flickr
-      url: https://www.flickr.com/photos/12455333@N00/
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: Box GW
-  - line: 80 Waterman St
-  - line: Brown University
-  - line: Providence, RI 02906
+    - title: eventbrite
+      url: 
 
 # Build settings
 markdown: kramdown

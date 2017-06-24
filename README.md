@@ -12,4 +12,4 @@ To updated jekyll:
 
 To run jekyll locally:
 
-    bundle exec jekyll serve --watch
+    bundle exec jekyll serve --watch --baseurl ""
