@@ -15,10 +15,15 @@ color:
 
 # Team names, titles and social links
 people:
+- name: Carlos Fernando Buen Abad Najar
+  pic: carlos
+  position: outreach
+  description: UCB 3rd year PhD student
+
 - name: Darrin Schultz
-  pic: casey
-  position: Principal Investigator
-  description: My CV is available <a href="/assets/Casey_Dunn_CV.pdf">here</a>.
+  pic: darrin
+  position: outreach
+  description: UCSC BME 3nd year PhD student
   social:
     - title: twitter
       url: https://twitter.com/conchoecia
@@ -27,98 +32,11 @@ people:
     - title: github
       url: https://github.com/conchoecia
 
-- name: Zack Lewis
-  pic: zack
-  position: Postdoc
-  description: The evolution of development, organogenesis, and gene-phenotype relationships. <a href="http://www.people.fas.harvard.edu/~zrlewis/">My site</a>.
-  social:
-    - title: google
-      url: http://scholar.google.com/citations?user=uHN9MicAAAAJ
-      
-- name: Mark Howison
-  pic: mark
-  position: Application Scientist
-  description: As an application scientist, I help researchers better utilize high performance computing resources.
-  social:
-    - title: twitter
-      url: https://twitter.com/markhowison
-    - title: google
-      url: http://scholar.google.com/citations?user=30GiMJIAAAAJ
+- name: Colleen Bosworth
+  pic: colleen
+  position: outreach
+  description: UCSC BME 2nd year PhD student
 
-- name: Cat Munro
-  pic: cat
-  position: Graduate Student
-  description: Origin and evolution of new levels of biological organization. Evolution and development of functional specialization in siphonophores.
-  social:
-    - title: twitter
-      url: https://twitter.com/CatMunro_
-    - title: google
-      url: http://scholar.google.com/citations?user=2EpYRt4AAAAJ
-
-- name: August Guang
-  pic: august
-  position: Graduate Student
-  description: Evolutionary processes, applied math. Phylogenetic algorithms and the reproducibility and accuracy of their results. 
-  social:
-   - title: bitbucket
-     url: https://bitbucket.org/aguang
-
-- name: Cat Luria
-  pic: luria
-  position: Graduate Student
-  description: Impacts of organic matter inputs and sea ice retreat on marine bacterial community structure in Antarctica.
-  social:
-
-- name: Alex Damian Serrano
-  pic: alex
-  position: Graduate Student
-  description: Evolution and diversification of trophic niches and predatory strategies in siphonophores.
-  social:
-    - title: twitter
-      url: https://twitter.com/antropoteuthis
-
-
-
-- name: Felipe Zapata (alum, 2016)
-  pic: felipe
-  position: Postdoc
-  description: Phylogenetics, diversity, and computational biology. I am a botanist, but enjoy animals too. <a href="http://zapatalab.info/people/felipe.html">My site</a>.
-  social:
-    - title: twitter
-      url: https://twitter.com/zapata_f
-    - title: google
-      url: http://scholar.google.com/citations?user=dwQ7qIcAAAAJ
-- name: Stefan Siebert (alum, 2015)
-  pic: stefan
-  position: Postdoc
-  description: The developmental biology and diversity of hydrozoans (Cnidaria).
-  social:
-    - title: google
-      url: http://scholar.google.com/citations?user=G8XF6J0AAAAJ
-    - title: flickr
-      url: https://www.flickr.com/photos/ssiebert/
-
-- name: Rebecca Helm (alum, 2015)
-  pic: rebecca
-  position: Graduate Student
-  description: Evolution of development in cnidarians, as well as their systematics and natural history. My <a href="http://www.rebeccarhelm.com/">site</a>, my <a href="http://deepseanews.com/about/rr-helm/">contributions to Deep Sea News</a>.
-  social:
-    - title: twitter
-      url: https://twitter.com/RebeccaRHelm
-    - title: google
-      url: http://scholar.google.com/citations?user=NYI5GP8AAAAJ
-
-- name: Sam Church (alum, 2015)
-  pic: sam
-  position: Undergrad Student
-  description: Comparative biology and phylogenetics, as well as developmental biology. Histology and development of siphonophores. 
-  social:
-
-- name: Nicola Malakooti (alum, 2016)
-  pic: nikka
-  position: Undergraduate Student
-  description: Comparative biology with additional interests in conservation. Inspired by the diversity of life.
-  social:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -126,7 +44,7 @@ social:
       url: https://twitter.com/caseywdunn
     - title: google
       url: http://scholar.google.com/citations?user=k2n_5QoAAAAJ&hl=en
-    - title: bitbucket 
+    - title: bitbucket
       url: https://bitbucket.org/caseywdunn
     - title: github
       url: https://github.com/caseywdunn
