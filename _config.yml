@@ -17,13 +17,13 @@ color:
 people:
 - name: Carlos Fernando Buen Abad Najar
   pic: carlos
-  position: outreach
-  description: UCB 3rd year PhD student
+  position: Outreach
+  description: UCB Y3 PhD
 
 - name: Darrin Schultz
   pic: darrin
-  position: outreach/website
-  description: UCSC BME 3nd year PhD student
+  position: Outreach/Website
+  description: UCSC BMEB Y3 PhD
   social:
     - title: twitter
       url: https://twitter.com/conchoecia
@@ -34,13 +34,43 @@ people:
 
 - name: Colleen Bosworth
   pic: colleen
-  position: outreach
-  description: UCSC BME 2nd year PhD student
+  position: Outreach
+  description: UCSC BMEB Y2 PhD
 
 - name: Ashley Wong
   pic: ashley
-  position: speaker coordinator
-  description: UCSC BME undergraduate
+  position: Speaker Coordinator
+  description: UCSC BMEB undergrad
+
+- name: Roger Volden
+  pic: roger
+  description: UCSC BMEB Y2 PhD
+
+- name: Akshar Lohith
+  pic: akshar
+  position: Logistics Coordinator
+  description: UCSC BMEB Y2 PhD
+  social:
+    - title: book
+      url: https://www.researchgate.net/profile/Akshar_Lohith
+    - title: linkedin-square
+      url: https://www.linkedin.com/in/alohith/
+
+- name: Matvei Khoroshkin
+  pic: matvei
+  position: Speaker Coordinator
+  description: UCSF BMI Y2 PhD
+  social:
+    - title: google
+      url: https://scholar.google.com/citations?user=nruhBWkAAAAJ&hl=en
+
+- name: sluggo
+  pic: slug
+  position: Forest Patrol
+  description: Ariolimax dolichophallus
+  social:
+    - title: google
+      url: https://scholar.google.com/citations?user=nruhBWkAAAAJ&hl=en
 
 
 
