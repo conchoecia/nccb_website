@@ -27,12 +27,12 @@ people:
 - name: Carlos Fernando Buen Abad Najar
   pic: carlos
   position: Outreach
-  description: UCB Y3 PhD
+  description: UCB PhD Y3
 
 - name: Darrin Schultz
   pic: darrin
-  position: Outreach/Website
-  description: UCSC BMEB Y3 PhD
+  position: outreach/webmaster
+  description: UCSC BMEB PhD Y3
   social:
     - title: twitter
       url: https://twitter.com/conchoecia
@@ -43,22 +43,36 @@ people:
 
 - name: Colleen Bosworth
   pic: colleen
-  position: Outreach
-  description: UCSC BMEB Y2 PhD
+  position: outreach/logistics coordinator
+  description: UCSC BMEB PhD Y2
 
 - name: Ashley Wong
   pic: ashley
-  position: Speaker Coordinator
+  position: speaker coordinator
   description: UCSC BMEB undergrad
+
+- name: Alison Tang
+  pic: alison
+  position: website
+  description: UCSC BMEB PhD Y2
+  social:
+
+- name: Thomas Ng
+  pic: thomas
+  position: logistics
+  description: UCSC BMEB PhD Y6
+  social:
+    - title: google
+      url: https://scholar.google.com/citations?user=JJ6g0BoAAAAJ&hl=en
 
 - name: Roger Volden
   pic: roger
-  description: UCSC BMEB Y2 PhD
+  description: UCSC BMEB PhD Y2
 
 - name: Akshar Lohith
   pic: akshar
-  position: Logistics Coordinator
-  description: UCSC BMEB Y2 PhD
+  position: logistics
+  description: UCSC BMEB PhD Y2
   social:
     - title: book
       url: https://www.researchgate.net/profile/Akshar_Lohith
@@ -68,18 +82,15 @@ people:
 - name: Matvei Khoroshkin
   pic: matvei
   position: Speaker Coordinator
-  description: UCSF BMI Y2 PhD
+  description: UCSF BMI PhD Y2
   social:
     - title: google
       url: https://scholar.google.com/citations?user=nruhBWkAAAAJ&hl=en
 
-- name: sluggo
-  pic: slug
-  position: Forest Patrol
-  description: Ariolimax dolichophallus
-  social:
-    - title: google
-      url: https://scholar.google.com/citations?user=nruhBWkAAAAJ&hl=en
+- name: Lucas Waldburger
+  pic: lucas
+  description: UCB Undergraduate Y2
+
 
 
 
