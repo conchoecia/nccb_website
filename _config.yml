@@ -69,7 +69,7 @@ people:
   pic: roger
   description: UCSC BMEB PhD Y2
 
-- name: Akshar        Lohith
+- name: Akshar Lohith
   pic: akshar
   position: logistics
   description: UCSC BMEB PhD Y2
@@ -81,11 +81,20 @@ people:
 
 - name: Matvei Khoroshkin
   pic: matvei
-  position: Speaker Coordinator
+  position: speaker coordinator
   description: UCSF BMI PhD Y2
   social:
     - title: google
       url: https://scholar.google.com/citations?user=nruhBWkAAAAJ&hl=en
+
+- name: Brandon Saint-John
+  pic: brandon
+  position: logistics
+  description: UCSF BMI PhD Y2
+  social:
+    - title: google
+      url: https://scholar.google.com/citations?user=nruhBWkAAAAJ&hl=en
+
 
 - name: Lucas Waldburger
   pic: lucas
