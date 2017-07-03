@@ -51,6 +51,21 @@ people:
   position: speaker coordinator
   description: UCSC BMEB undergrad
 
+- name: Brandon Saint-John
+  pic: brandon
+  position: logistics
+  description: UCSF BMI PhD Y2
+
+- name: Julia Philipp
+  pic: julia
+  position: outreach/website
+  description: UCSC MCD PhD Y2
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/julia-philipp-58914b9b/
+    - title: github
+      url: https://github.com/nattifftoffe
+
 - name: Alison Tang
   pic: alison
   position: website
@@ -87,10 +102,6 @@ people:
     - title: google
       url: https://scholar.google.com/citations?user=nruhBWkAAAAJ&hl=en
 
-- name: Brandon Saint-John
-  pic: brandon
-  position: logistics
-  description: UCSF BMI PhD Y2
 
 - name: Lucas Waldburger
   pic: lucas
