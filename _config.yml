@@ -82,6 +82,7 @@ people:
 
 - name: Roger Volden
   pic: roger
+  position: swag production
   description: UCSC BMEB PhD Y2
 
 - name: Akshar Lohith
@@ -102,6 +103,10 @@ people:
     - title: google
       url: https://scholar.google.com/citations?user=nruhBWkAAAAJ&hl=en
 
+- name: Kishwar Shafin
+  pic: kishwar
+  position: poster design
+  description: UCSC BMEB PhD Y2
 
 - name: Lucas Waldburger
   pic: lucas
