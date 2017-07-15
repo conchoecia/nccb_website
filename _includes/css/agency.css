@@ -13,6 +13,10 @@ body {
     color: #777;
 }
 
+.team-height {
+    min-height: 400px;
+}
+
 .text-primary {
     color: #{{ site.color.primary }};
 }
@@ -324,7 +328,7 @@ header .intro-text .intro-heading {
 }
 
 section {
-    padding: 100px 0;
+padding: 30px 0;
 }
 
 section h2.section-heading {
