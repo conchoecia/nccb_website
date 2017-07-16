@@ -112,6 +112,14 @@ people:
   pic: lucas
   description: UCB undergrad Y2
 
+- name: Daniel Asarnow
+  pic: daniel
+  position: Outreach
+  description: UCSF iPQB/BP PhD Y3
+  social:
+    - title: github
+      url: https://github.com/asarnow
+
 
 
 
