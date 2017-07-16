@@ -14,8 +14,118 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <a href="{{ post.linkout }}"><img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}"></a>
-                            <p class="text-muted">{{ post.description }}</p>
+                            {% if post.sponsorshippage %}
+                                 <div class="text-left">
+                                 <h3>Interested in Sponsoring NCCB 2017?</h3>
+                                 <p class="text-muted">The Northern
+                                 California Computational Biology
+                                 (NCCB) Student Symposium is a great
+                                 event to access the computational
+                                 biology student community and to
+                                 promote your organization directly to
+                                 conference attendees. Please consider
+                                 partnering with us in sponsoring this
+                                 important scientific and educational
+                                 event.</p>
+
+                                 <h4>Sponsorship Levels</h4>
+                                 <p class="text-muted">We are
+                                 requesting sponsorship at the
+                                 following levels.  All sponsor
+                                 representatives are welcome to attend
+                                 all symposium talks, poster session
+                                 and reception.</p>
+
+                                 <h5>Gold Level ($2,000+)</h5>
+                                 <ul class="text-muted">
+                                   <li>Conference passes for up to
+                                   four representatives to attend
+                                   symposium</li>
+                                   <li>Opportunity for roundtable
+                                   meetings with students</li>
+                                   <li>Access to resumes from opt-in
+                                   attendees</li>
+                                   <li>Tables to use to exhibit your
+                                   materials</li>
+                                   <li>Distribution of promotional
+                                   materials to all attendees</li>
+                                   <li>Corporate name and logo will be
+                                   displayed on NCCB website and
+                                   printed materials</li>
+                                 </ul>
+
+
+                                 <h5>Silver Level ($1,000+)</h5>
+                                 <ul class="text-muted">
+                                   <li>Conference passes for up to two
+                                   representatives to attend
+                                   symposium</li>
+                                   <li>Access to resumes from opt-in
+                                   attendees</li>
+                                   <li>Table to use to exhibit your
+                                   materials</li>
+                                   <li>Distribution of promotional
+                                   materials to all attendees</li>
+                                   <li>Corporate name and logo will be
+                                   displayed on NCCB website and
+                                   printed materials</li>
+                                 </ul>
+
+
+                                 <h5>Bronze Level  ($500+)</h5>
+                                 <ul class="text-muted">
+                                   <li>Conference pass for a
+                                   representative to attend the
+                                   symposium</li>
+                                   <li>Shared table to use to exhibit
+                                   your materials</li>
+                                   <li>Corporate name and logo will be
+                                   displayed on NCCB website and
+                                   printed materials</li>
+                                 </ul>
+
+
+                                 <h4>Other Sponsorship Opportunities</h4>
+
+                                 <p class="text-muted">If you are
+                                 interested in supporting the NCCB
+                                 Student Symposium but would like to
+                                 inquire about sponsoring the event in
+                                 other ways, such as providing a
+                                 smaller amount of donation for
+                                 coffee, lunch, t-shirts, or providing
+                                 other giveaways to conference
+                                 attendees, please feel free to
+                                 contact us
+                                 at: <a href="mailto:nccbsymposium@gmail.com?Subject=NCCB%20Sponsorship%20Opportunities"
+                                 target="_top">nccbsymposium@gmail.com</a>.<p>
+                                 </div>
+                            {% endif %}
+                            {% if post.img %}
+                               <a href="{{ post.linkout }}">
+                                 <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}"></a>
+                            {% else %}
+                               {% if post.img %}
+                                  <iframe src="{{ post.iframe }}" width="600"
+                                          height="{{ post.iframeheight }}"
+                                  frameborder="0"
+                                  marginheight="0"
+                                  marginwidth="0">Loading...</iframe>
+                               {% endif %}
+                               {% if post.maps %}
+                                  {% for map in post.maps %}
+                                     <h3>{{ map.title }}</h3>
+                                     <p class="text-muted">{{ map.description }}</p>
+                                     <iframe src="{{ map.url }}"
+                                                width="400" height="300"
+                                                frameborder="0"
+                                                style="border:0" allowfullscreen></iframe>
+                                  {% endfor %}
+                               {% endif %}
+                            {% endif %}
+                            {% if post.description %}
+                                <p class="text-muted">{{ post.description }}</p>
+                            {% endif %}
                             <ul class="list-inline item-details">
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
