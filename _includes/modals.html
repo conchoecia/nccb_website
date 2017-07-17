@@ -106,7 +106,7 @@
                                  <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}"></a>
                             {% else %}
                                {% if post.iframe %}
-                                  <iframe src="{{ post.iframe }}" width="600"
+                                  <iframe src="{{ post.iframe }}" width="100%"
                                           height="{{ post.iframeheight }}"
                                   frameborder="0"
                                   marginheight="0"
@@ -116,10 +116,12 @@
                                   {% for map in post.maps %}
                                      <h3>{{ map.title }}</h3>
                                      <p class="text-muted">{{ map.description }}</p>
-                                     <iframe src="{{ map.url }}"
+                                     <div class="google-maps">
+                                       <iframe src="{{ map.url }}"
                                                 width="400" height="300"
                                                 frameborder="0"
                                                 style="border:0" allowfullscreen></iframe>
+                                     </div>
                                   {% endfor %}
                                {% endif %}
                             {% endif %}
