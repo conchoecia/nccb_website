@@ -15,6 +15,11 @@
     height: 100%;
 }
 
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
 
 /*!
  * Start Bootstrap - Agency Bootstrap Theme (http://startbootstrap.com)
