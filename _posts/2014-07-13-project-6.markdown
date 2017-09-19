@@ -3,7 +3,7 @@ title: Schedule
 layout: default
 modal-id: 6
 date: 2017-07-03
-img: sched-20170703.jpg
+img: NCCB2017_Schedule_20170918.jpg
 alt: image-alt
 
 description: This is the planned schedule for the conference. Subject to change!
