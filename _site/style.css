@@ -775,6 +775,32 @@ section#contact .text-danger {
     color: #e74c3c;
 }
 
+section#sponsorlogos {
+
+}
+
+div#sponsorimgs {
+    display: flex;
+    justify-content: space-between;
+/*    text-align: justify;
+    padding: 20px; */
+}
+
+div#sponsorimgs > div {
+/*    display: inline-block;
+    vertical-align: center;*/
+}
+
+section#sponsorimgs img {
+    width: 300px;
+}
+
+/*div#sponsorimgs:after {
+    content: "";
+    width: 100%;
+    display: inline-block;
+}*/
+
 footer {
     padding: 25px 0;
     text-align: center;
