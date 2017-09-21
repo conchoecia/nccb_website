@@ -386,7 +386,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 0;
     }
 }
 
@@ -767,30 +767,23 @@ section#contact .text-danger {
 }
 
 section#sponsorlogos {
-
+    padding: 0;
 }
 
-div#sponsorimgs {
+section#sponsorlogos .intro-text {
+    color: #fec503;
+    font-weight: bold;
+    font-size: larger;
+}
+
+section#sponsorlogos .row {
     display: flex;
-    justify-content: space-between;
-/*    text-align: justify;
-    padding: 20px; */
 }
 
-div#sponsorimgs > div {
-/*    display: inline-block;
-    vertical-align: center;*/
-}
-
-section#sponsorimgs img {
-    width: 300px;
-}
-
-/*div#sponsorimgs:after {
-    content: "";
+section#sponsorlogos img {
     width: 100%;
-    display: inline-block;
-}*/
+    height: 100%;
+}
 
 footer {
     padding: 25px 0;
