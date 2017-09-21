@@ -780,6 +780,10 @@ section#sponsorlogos .row {
     display: flex;
 }
 
+section#sponsorlogos .row > div {
+    margin: 0 2px;
+}
+
 section#sponsorlogos img {
     width: 100%;
     height: 100%;
