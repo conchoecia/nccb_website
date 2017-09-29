@@ -124,6 +124,14 @@
                                      </div>
                                   {% endfor %}
                                {% endif %}
+                               {% if post.images %}
+                                  {% for thisimage in post.images %}
+                                     <h3>{{ thisimage.title }}</h3>
+                                     <p class="text-muted">{{ thisimage.description }}</p>
+                                     <img src={{ thisimage.img }} class="img-responsive img-centered" alt="{{ post.alt }}"></a>
+                                  {% endfor %}
+                               {% endif %}
+
                             {% endif %}
                             {% if post.description %}
                                 <p class="text-muted">{{ post.description }}</p>
