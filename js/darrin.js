@@ -16,3 +16,10 @@ $(document).ready(function() {
                $(window.location.hash).modal();
             }
     })
+$(document).ready(function() {
+      var modals = ['#portfolioModal3'];
+      if (window.location.hash && ~modals.indexOf(window.location.hash)) {
+               $(window.location.hash).modal();
+            }
+    })
+
