@@ -778,6 +778,7 @@ section#sponsorlogos .intro-text {
 
 section#sponsorlogos .row {
     display: flex;
+    padding: 0 0 5px 0;
 }
 
 section#sponsorlogos .row > div {
