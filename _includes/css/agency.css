@@ -264,7 +264,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: transparent;
+        background-color: #000;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -293,10 +293,10 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #000;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/header-bg.png');
-    background-color: #222;
+    background-color: #f7f7f7;
     background-position: center center;
     background-repeat: no-repeat;
     -webkit-background-size: contain;

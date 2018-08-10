@@ -7,12 +7,12 @@ alt: image-alt
 # The maps to include in the directions
 maps:
 - title: Conference Location
-  description: The conference will be held at the UC Santa Cruz Baskin Auditorium (Room 101).
-  url: https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d1593.2014020041515!2d-122.063432345236!3d37.00018577120327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x808e41752294ddab%3A0x9887f8d11ef486b7!2sAuditorium%2C+Santa+Cruz%2C+CA+95064!3m2!1d37.0002081!2d-122.0623936!5e0!3m2!1sen!2sus!4v1500169388284
+  description: The conference will be held in Byers Auditorium in Genentech Hall at UC San Francisco Mission Bay.
+  url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.9401644022246!2d-122.39376458468253!3d37.76800117976073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f7fcf22c08705%3A0xeaa83e6b468eddf1!2sGenentech+Hall!5e0!3m2!1sen!2sus!4v1533064911400
 
-images:
-- title: Parking
-  description: There is free event parking in the Core West parking garage, street parking, and parking lots in the red boxes below. There is also street parking for vehicles greater than 8' tall and long vehicles in the street and parking lots.
-  img: img/directions/parking.png
+#images:
+#- title: Parking
+#  description: There is free event parking in the Core West parking garage, street parking, and parking lots in the red boxes below. There is also street parking for vehicles greater than 8' tall and long vehicles in the street and parking lots.
+#  img: img/directions/parking.png
 
 ---
