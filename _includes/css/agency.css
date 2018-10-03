@@ -330,7 +330,7 @@ header .intro-text .intro-heading {
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 380px;
-        padding-bottom: 380px;
+        padding-bottom: 190px;
     }
 
     header .intro-text .intro-lead-in {
@@ -788,6 +788,7 @@ section#sponsorlogos .row > div {
 section#sponsorlogos img {
     width: 100%;
     height: 100%;
+    padding: 4%;
 }
 
 footer {

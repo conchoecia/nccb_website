@@ -116,6 +116,7 @@
                                   {% for map in post.maps %}
                                      <h3>{{ map.title }}</h3>
                                      <p class="text-muted">{{ map.description }}</p>
+                                     <p class="text-muted">{{ map.parking }}</p>
                                      <div class="google-maps">
                                        <iframe src="{{ map.url }}"
                                                 width="400" height="300"
