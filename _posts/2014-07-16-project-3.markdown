@@ -9,6 +9,7 @@ maps:
 - title: Conference Location
   description: The conference will be held in Byers Auditorium in Genentech Hall at UC San Francisco Mission Bay.
   url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.9401644022246!2d-122.39376458468253!3d37.76800117976073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f7fcf22c08705%3A0xeaa83e6b468eddf1!2sGenentech+Hall!5e0!3m2!1sen!2sus!4v1533064911400
+  parking: Free on-street parking can be found in the nearby Dogpatch and Potrero Hill areas. Paid parking is available in multiple locations on the Mission Bay campus, with daily rates around $30.
 
 #images:
 #- title: Parking
