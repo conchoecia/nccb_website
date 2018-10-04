@@ -676,6 +676,10 @@ section h3.section-subheading {
     text-align: center;
 }
 
+.faculty-speaker-bio {
+    width: 75%;
+}
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
