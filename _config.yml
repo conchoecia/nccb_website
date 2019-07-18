@@ -12,7 +12,7 @@ baseurl: ""
 
 # Site settings
 title: NCCB
-email: dts@usc.edu
+email: nccbsymposium@gmail.com
 description: "The Northern California Computational Biology student group."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -24,37 +24,11 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Carlos Fernando Buen Abad Najar
-  pic: carlos
-  position: Outreach
-  description: UCB PhD Y4
-
-- name: Darrin Schultz
-  pic: darrin
-  position: outreach/webmaster
-  description: UCSC BMEB PhD Y4
-  social:
-    - title: twitter
-      url: https://twitter.com/conchoecia
-    - title: google
-      url: http://scholar.google.com/citations?user=k2n_5QoAAAAJ
-    - title: github
-      url: https://github.com/conchoecia
 
 - name: Ashley Wong
   pic: ashley
   position: speaker coordinator
   description: UCSC BMEB undergrad
-
-- name: Julia Philipp
-  pic: julia
-  position: outreach/website
-  description: UCSC MCD PhD Y3
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/julia-philipp-58914b9b/
-    - title: github
-      url: https://github.com/nattifftoffe
 
 - name: Akshar Lohith
   pic: akshar
@@ -99,6 +73,46 @@ people:
   position: Logistics
   description: UC Davis IGG PhD Y4
 
+- name: Diana Aguilar Gomez
+  pic:
+  position: 
+  description: UC Berkeley
+
+- name: Benjamin Yeh
+  pic: 
+  position: 
+  description: Stanford
+
+- name: Gonzalo Benegas
+  pic: 
+  position: 
+  description: UC Berkeley
+
+- name: Yihui Zhu
+  pic: 
+  position: 
+  description: 
+
+- name: Daniela Soto
+  pic:
+  position:
+  description: 
+
+- name: Connor Bybee
+  pic: 
+  position: 
+  description: 
+
+- name: Robert Stolz
+  pic: 
+  position: 
+  description: 
+
+- name: Megan Durham
+  pic: 
+  position: 
+  description: 
+  
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
     - title: facebook
