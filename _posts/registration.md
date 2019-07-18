@@ -3,7 +3,7 @@ title: Registration
 layout: default
 modal-id: 2
 date: 2017-07-15
-iframe: https://docs.google.com/forms/d/e/1FAIpQLSdUGYU-ZulKeKpSL4XEs5ydk-R7Emr8_lhZqW4MuN_9rFrAbg/viewform?embedded=true
+iframe: https://forms.gle/3BXUvjNnVAnZyv4C7
 iframeheight: 3200
 alt: image-alt
 
