@@ -25,21 +25,6 @@ color:
 # Team names, titles and social links
 people:
 
-- name: Ashley Wong
-  pic: ashley
-  position: speaker coordinator
-  description: UCSC BMEB undergrad
-
-- name: Akshar Lohith
-  pic: akshar
-  position: logistics
-  description: UCSC BMEB PhD Y3
-  social:
-    - title: book
-      url: https://www.researchgate.net/profile/Akshar_Lohith
-    - title: linkedin-square
-      url: https://www.linkedin.com/in/alohith/
-
 - name: Daniel Asarnow
   pic: daniel
   position: Outreach
@@ -108,11 +93,6 @@ people:
   position: 
   description: 
 
-- name: Megan Durham
-  pic: 
-  position: 
-  description: 
-  
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
     - title: facebook
