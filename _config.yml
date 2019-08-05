@@ -56,10 +56,13 @@ people:
 - name: Rinaldo Catta-Preta
   pic: rinaldo
   position: Logistics
-  description: UC Davis IGG PhD Y4
+  description: UC Davis IGG PhD Y5
+  social:
+    - title: twitter
+      url: http://twitter.com/RCatta_Preta
 
 - name: Diana Aguilar Gomez
-  pic:
+  pic: diana
   position: 
   description: UC Berkeley
 
@@ -84,7 +87,7 @@ people:
   description: 
 
 - name: Connor Bybee
-  pic: 
+  pic: connor
   position: 
   description: 
 
