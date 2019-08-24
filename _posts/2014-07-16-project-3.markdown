@@ -8,7 +8,7 @@ alt: image-alt
 maps:
 - title: Conference Location
   description: The conference will be held in Gladys Valley Hall at UC Davis.
-  url: https://www.google.com/maps/place/Gladys+Valley+Hall,+Davis,+CA+95616/@38.5328209,-121.7658964,17z/data=!3m1!4b1!4m5!3m4!1s0x80852902c9d969a7:0xaa647225d10f76a3!8m2!3d38.5328167!4d-121.7637077
+  url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3121.041276347613!2d-121.76590174849602!3d38.53281667952857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80852902c9d969a7%3A0xaa647225d10f76a3!2sGladys%20Valley%20Hall%2C%20Davis%2C%20CA%2095616!5e0!3m2!1sen!2sus!4v1566680666087!5m2!1sen!2sus
   parking: Paid parking.
 
 #images:
