@@ -77,9 +77,14 @@ people:
   description: UC Berkeley
 
 - name: Yihui Zhu
-  pic: 
-  position: 
-  description: 
+  pic: yihui
+  position: Outreach
+  description: UC Davis IGG PhD Y5
+  social:
+    - title: github
+      url: https://github.com/Yihui-Zhu
+    - title: twitter
+      url: https://twitter.com/yihuizhu12
 
 - name: Daniela Soto
   pic: daniela
