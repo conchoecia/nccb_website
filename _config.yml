@@ -63,8 +63,11 @@ people:
 
 - name: Diana Aguilar Gomez
   pic: diana
-  position: 
-  description: UC Berkeley
+  position: Outreach
+  description: UC Berkeley CompBio PhD Y3
+  social:
+    - title: twitter
+      url: https://twitter.com/dianaguilr
 
 - name: Benjamin Yeh
   pic: benjamin
