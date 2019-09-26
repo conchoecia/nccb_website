@@ -46,7 +46,7 @@ people:
 - name: Rhondene Wint
   pic: rhondene
   position: Logistics
-  description: UC-Merced PhD Y2
+  description: UC Merced QSB PhD Y3
   social:
     - title: github
       url: https://github.com/rhondene
@@ -71,8 +71,11 @@ people:
 
 - name: Benjamin Yeh
   pic: benjamin
-  position: 
-  description: Stanford
+  position: Outreach
+  description: Stanford CS MS Y2
+  social:
+    - title: github
+      url: https://bentyeh.github.io
 
 - name: Yihui Zhu
   pic: yihui
