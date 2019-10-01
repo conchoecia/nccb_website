@@ -123,17 +123,17 @@ permalink: pretty
 # Industry panel speakers
 panel:
 - name: Kjiersten Fagnan
-  pic: fagnan.jpg
+  pic: fagnan
   org: Joint Genome Institute at LBNL
   position: Chief Information Officer
 
 - name: Alex Colavin
-  pic: colavin.jpg
+  pic: colavin
   org: Invitae Corporation
   position: Lead of Technical Development, Clinical Sciences and Interpretation
 
 - name: Michael Becich
-  pic: becich.jog
+  pic: becich
   org: Octave Bioscience
   position: Platform Insights Lead
 
