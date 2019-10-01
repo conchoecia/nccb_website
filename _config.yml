@@ -27,15 +27,15 @@ people:
 
 - name: Daniel Asarnow
   pic: daniel
-  position: Outreach
-  description: UCSF iPQB/BP PhD Y4
+  position: Communication
+  description: UCSF iPQB PhD Y5
   social:
     - title: github
       url: https://github.com/asarnow
 
 - name: Matt Jones
   pic: mattjones
-  position: Logistics/Website
+  position: Communication
   description: UCSF iPQB PhD Y2
   social:
     - title: github
@@ -64,14 +64,14 @@ people:
 - name: Diana Aguilar Gomez
   pic: diana
   position: Outreach
-  description: UC Berkeley CompBio PhD Y3
+  description: UC Berkeley Comp Bio PhD Y3
   social:
     - title: twitter
       url: https://twitter.com/dianaguilr
 
 - name: Benjamin Yeh
   pic: benjamin
-  position: Outreach
+  position: Communication
   description: Stanford CS MS Y2
   social:
     - title: github
@@ -89,7 +89,7 @@ people:
 
 - name: Daniela Soto
   pic: daniela
-  position:
+  position: Outreach
   description: UC Davis IGG PhD Y2
   social:
     - title: github
@@ -99,13 +99,13 @@ people:
 
 - name: Connor Bybee
   pic: connor
-  position: 
-  description: 
+  position: Fundraising
+  description: UC Berkeley Comp Bio PhD Y4
 
 - name: Robert Stolz
-  pic: 
+  pic:  
   position: 
-  description: 
+  description: UC Davis IGG PhD Y4
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -124,7 +124,7 @@ permalink: pretty
 panel:
 - name: Kjiersten Fagnan
   pic: fagnan
-  org: Joint Genome Institute at LBNL
+  org: Joint Genome Institute 
   position: Chief Information Officer
 
 - name: Alex Colavin
