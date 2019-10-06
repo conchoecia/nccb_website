@@ -9,7 +9,7 @@ maps:
 - title: Conference Location
   description: The conference will be held in Gladys Valley Hall at UC Davis.
   url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3121.041276347613!2d-121.76590174849602!3d38.53281667952857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80852902c9d969a7%3A0xaa647225d10f76a3!2sGladys%20Valley%20Hall%2C%20Davis%2C%20CA%2095616!5e0!3m2!1sen!2sus!4v1566680666087!5m2!1sen!2sus
-  parking: Paid parking.
+  parking: There is free weekend parking in lots 50, 51, and 55 ([UC Davis Campus Map](https://taps.ucdavis.edu/sites/taps.ucdavis.edu/files/attachments/TAPS%20parking%20map.pdf)). Due to a Saturday football game, we suggest you access the venue through La Rue Road and Garrod Drive, as opposed to Health Sciences Drive.
 
 #images:
 #- title: Parking
